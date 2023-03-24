@@ -7,28 +7,28 @@
     The method does not accept any parameters and does not return a value.
     It should just print your full name.
    ```
-<br/ >
-    ```
+
+  ```
     Question 2:
     create a static method named greetUser.
     The method accepts only one parameter and returns a value.
     The value returned should be a concatenation of the string "Welcome to my website" plus the user's name
    ```
 
-    ```
+   ```
     Question 3:
     create a static method named buyCoffee.
     The method accepts only one parameter named dollarAmount.
     The price of coffee never changes and is ALWAYS $1
     The value returned should be the change left after buying coffee
-   ```
-<br/ >
+  ```
+
    ```
     Question 4:
     create a static method named myHobbies.
     The method accepts only one parameter which is an array of your hobbies.
     The method does not return any values. It should just print out your hobbies when invoked
-    ```
+   ```
 
 
     ```
