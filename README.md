@@ -2,7 +2,7 @@
 
 
   ```
-    Question 1
+    ### Question 1
     create a static method named printName.
     The method does not accept any parameters and does not return a value.
     It should just print your full name.
