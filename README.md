@@ -7,7 +7,7 @@
     The method does not accept any parameters and does not return a value.
     It should just print your full name.
    ```
-
+<br/ >
     ```
     Question 2:
     create a static method named greetUser.
@@ -22,7 +22,7 @@
     The price of coffee never changes and is ALWAYS $1
     The value returned should be the change left after buying coffee
    ```
-
+<br/ >
    ```
     Question 4:
     create a static method named myHobbies.
