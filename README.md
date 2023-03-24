@@ -86,9 +86,9 @@
         Complete the method above named getInitials.
 
         Given a full name separated by a space
-        eg: Mike Jones
+        eg: Mike Jones or Beyonce Knowles
         Your method should extract and return just the person's initials
-       eg: MJ
+       eg: MJ or BK
 
        Call or invoke your method.
    ```
