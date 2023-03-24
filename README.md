@@ -60,36 +60,37 @@
 
 
     
-    ```
+   ```
     Question 8:
-    - Using the Scanner class. Prompt a user for their name
-    - If their name is Aliyah or Hakeem. Print out "Hello Aliyah" or "Hello Hakeem"
-    - If the user's name is not Aliyah or Hakeem then keep asking for their name
-    - Note: a user may type the letters of their name in uppercase or lowercase
-    - eg: aLiYah, aLIYah or HakEEm, hAkEeM. Your code should work regardless
-    ```
+     Using the Scanner class. Prompt a user for their name
+     If their name is Aliyah or Hakeem. Print out "Hello Aliyah" or "Hello Hakeem"
+     If the user's name is not Aliyah or Hakeem then keep asking for their name
+     Note: a user may type the letters of their name in uppercase or lowercase
+     eg: aLiYah, aLIYah or HakEEm, hAkEeM. Your code should work regardless
+   ```
 
 
-    ```
+   ```
     Question 9
 
         public static void getInitials(String fullName){
-                //your code goes here
+                
         }
 
         Complete the method above named getInitials.
-        - Given a full name separated by a space
-        - eg: Mike Jones
-        - Your method should extract and return just the person's initials
-        - eg: MJ
+
+        Given a full name separated by a space
+        eg: Mike Jones
+        Your method should extract and return just the person's initials
+        eg: MJ
     ```
 
 
      
-    ```
+   ```
     Question 10
-    - Given the following 2D array
-    - Use a nested loop to print out the output below:
+     Given the following 2D array
+     Use a nested loop to print out the output below:
 
         Biggie
         JayZ
@@ -97,4 +98,4 @@
         Juicy
         22Twos
         One mIc
-      ```
+   ```
