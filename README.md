@@ -89,7 +89,7 @@
      
    ```
     Question 10
-     Given the following 2D array
+     Given the following Multidimensional(2D) array
      Use a nested loop to print out the output below:
 
         Biggie
