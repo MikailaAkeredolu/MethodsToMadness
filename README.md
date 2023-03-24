@@ -14,14 +14,16 @@
     create a static method named greetUser.
     The method accepts only one parameter named username and returns a value.
     The value returned should be a concatenation of the string "Welcome to my website" plus the user's name
+    Call or invoke your method.
    ```
 
    ```
     Question 3:
     create a static method named buyCoffee.
-    The method accepts only one parameter named dollarAmount.
-    The price of coffee never changes and is ALWAYS $1
+    The method accepts only one parameter named dollars.
+    The price of coffee NEVER changes and is ALWAYS $1
     The value returned should be the change left after buying coffee
+    Call or invoke your method twice inside main with two siffernt argument (values)
   ```
 
   ```
@@ -29,6 +31,7 @@
     create a static method named myHobbies.
     The method accepts only one parameter which is an array of your hobbies.
     The method does not return any values. It should just print out your hobbies when invoked
+    Call or invoke your method.
    ```
 
 
@@ -42,6 +45,8 @@
      - if weatherCondition is cool and temperature is greater than 50  - " Wear wind breakers "
      - if weatherCondition is cold and temperature is below 50 - " Wear a jacket "
      - if weatherCondition is anything else -  " No such weather condition "
+
+    Call or invoke your method.
    ```
 
    ```
@@ -49,6 +54,7 @@
      create a static method named areaOfTriangle.
      The method accepts two parameters (base and height)
      The method should just return the computed area of the triangle
+     Call or invoke your method.
    ```
 
 
@@ -83,6 +89,8 @@
         eg: Mike Jones
         Your method should extract and return just the person's initials
        eg: MJ
+
+       Call or invoke your method.
    ```
 
 
@@ -90,7 +98,7 @@
    ```
     Question 10
      Given the following Multidimensional(2D) array
-     Use a nested loop to print out the output below:
+     Use a nested loop of your choice to print out the output below:
 
         Biggie
         JayZ
