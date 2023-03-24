@@ -74,16 +74,15 @@
     Question 9
 
         public static void getInitials(String fullName){
-                
         }
 
         Complete the method above named getInitials.
 
-        - Given a full name separated by a space
+        Given a full name separated by a space
         eg: Mike Jones
-        - Your method should extract and return just the person's initials
-        eg: MJ
-    ```
+        Your method should extract and return just the person's initials
+       eg: MJ
+   ```
 
 
      
