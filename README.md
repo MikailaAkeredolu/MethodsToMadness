@@ -23,7 +23,7 @@
     The method accepts only one parameter named dollars.
     The price of coffee NEVER changes and is ALWAYS $1
     The value returned should be the change left after buying coffee
-    Call or invoke your method twice inside main with two siffernt argument (values)
+    Call or invoke your method twice inside main with two differnt argument (values)
   ```
 
   ```
