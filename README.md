@@ -97,7 +97,13 @@
      
    ```
     Question 10
+
      Given the following Multidimensional(2D) array
+        String[][] matrix = {
+                {"Biggie", "JayZ", "Nas", "Who?"},
+                {"Juicy", "22Twos", "One mIc"}
+        };
+
      Use a nested loop of your choice to print out the output below:
 
         Biggie
