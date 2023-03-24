@@ -1,5 +1,6 @@
 # MethodsToMadness
-#### Push to github and send repo's link to me by due time
+### Duration : 1 hour
+#### Push to github and DM repo's link to me via Slack!!!
 
   ```
     Question 1:
